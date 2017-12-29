@@ -1,0 +1,2 @@
+# SanaRepo
+Naive BAyes 
